@@ -7,3 +7,5 @@ lib
 .merlin
 
 *.bs.js
+
+.DS_Store
