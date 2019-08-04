@@ -4,4 +4,6 @@ lib
 
 .idea
 
+.merlin
 
+*.bs.js
